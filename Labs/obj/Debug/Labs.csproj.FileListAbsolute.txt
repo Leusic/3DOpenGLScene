@@ -1,0 +1,85 @@
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\Max Trotter\Documents\3D Computer Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Labs.exe.config
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Labs.exe
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\Labs.pdb
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\bin\Debug\OpenTK.dll
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\obj\Debug\Labs.exe
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\Lab 2\Labs\obj\Debug\Labs.pdb
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\obj\Debug\Labs.exe
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\obj\Debug\Labs.pdb
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Labs.exe.config
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Labs.exe
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\Labs.pdb
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\bin\Debug\OpenTK.dll
+C:\Users\Max\Documents\Y2T2Uni\3D Computer Graphics\ACW\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Labs.exe.config
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Labs.exe
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\Labs.pdb
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\bin\Debug\OpenTK.dll
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\obj\Debug\Labs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\obj\Debug\Labs.exe
+C:\Users\Max\Documents\Employment\Past Projects\ACW\Labs\obj\Debug\Labs.pdb
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Labs.exe.config
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Labs.exe
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\Labs.pdb
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\bin\Debug\OpenTK.dll
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\obj\Debug\Labs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\obj\Debug\Labs.exe
+C:\Users\Max\Documents\Employment\Past Projects\3D Armadillo and Shapes (C#)\Labs\obj\Debug\Labs.pdb
